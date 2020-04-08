@@ -1,0 +1,4 @@
+The ide used is jupyter notebook
+packages are as below
+pip install quandl
+pip install pandas

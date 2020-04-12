@@ -14,5 +14,3 @@ print(reg.predict([[2800,0,1]]))
 '''for west windsor we need to provide 0 0 '''
 print('The accuracy of the data is ' + str(reg.score(X,y)*100)+'%')
 
-'''CODE FOR ONE HOT ENCODER'''
-
